@@ -1,0 +1,13 @@
+.root {
+  width: 900px;
+  height: 900px;
+}
+
+.block {
+  display: inline-block;
+  width: 290px;
+  height: 290px;
+  background-color: cyan;
+  border: 1px solid gray;
+  border-radius: 30px;
+}
